@@ -1,7 +1,6 @@
 package com.nowcoder.community.controller;
 
 import com.nowcoder.community.service.TestService;
-import javafx.print.Printer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
